@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "My First React",
+      "body": "Hello react here",
+      "id": 1
+    },
+    {
+      "title": "Recat Coding Learning",
+      "body": "React coding learning is a complex thing.",
+      "id": 2
+    },
+    {
+      "title": "Hello Adrija",
+      "body": "Go office tomorrow ",
+      "id": 4
+    }
+  ]
+}

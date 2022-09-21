@@ -1,0 +1,11 @@
+.post {
+  margin: 2rem auto;
+  max-width: 40rem;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.post h1 {
+  display: inline-block;
+  margin-right: 20px;
+}
